@@ -1,0 +1,16 @@
+<Project>
+  <PropertyGroup>
+    <Authors>Roland König</Authors>
+    <Company>Roland König</Company>
+    <Description>A project that bundles a set of best-practice configuration for Json.Net</Description>
+    <Copyright>©2020 by Roland König</Copyright>
+    <PackageProjectUrl>https://github.com/RolandKoenig/ConfigurationJsonSerializer</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/RolandKoenig/ConfigurationJsonSerializer.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Version>0.1.0</Version>
+    <PackageVersion>0.1.0</PackageVersion>
+    <Product>ConfigurationJsonSerializer</Product>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+  </PropertyGroup>
+</Project>
